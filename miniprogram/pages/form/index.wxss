@@ -1,20 +1,30 @@
 .body {
-    margin: 40rpx;
-
+  margin: 40rpx;
 }
 
 .section {
-    margin: 40rpx 0 80rpx;
+  margin: 40rpx 0 80rpx;
 }
 
 .title {
-    font-size: 36rpx;
+  font-size: 36rpx;
 }
 
 .input {
-    margin: 30rpx 0;
-    border-bottom: 1px solid #666;
-    padding: 20rpx 0;
-    width: 100%;
+  margin: 30rpx 0;
+  border-bottom: 1px solid #666;
+  padding: 20rpx 0;
+  width: 100%;
+}
 
+.mg {
+  margin: 30rpx;
+}
+
+.area {
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }

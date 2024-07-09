@@ -4,4 +4,15 @@
         <view class="title">昵称：</view>
         <input class="input" name="nickname" placeholder="请输入昵称" />
     </view>
+    <view class="section">
+        <view class="title">性别：</view>
+        <radio-group class="mg" name="gender">
+            <label class="radio">
+              <radio value="nan" checked="true"/>男
+            </label>
+            <label class="radio">
+              <radio value="nv" />女
+            </label>
+        </radio-group> 
+    </view>
 </view>
