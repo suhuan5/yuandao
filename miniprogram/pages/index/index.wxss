@@ -1,0 +1,36 @@
+.cover {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 80rpx;
+}
+
+.logo {
+    width: 160px;
+    height: 160px;
+}
+
+.title {
+    font-weight: 500;
+    color: #000000;
+    font-size: 44rpx;
+    margin: 50rpx 32rpx;
+}
+
+.desc {
+    font-size: 28rpx;
+    font-weight: 400;
+    color: #000000;
+    margin: 32rpx;
+}
+
+.join {
+    width: 400rpx;
+    height: 100rpx;
+    background-color: #07c160;
+    color: #fff;
+    border-radius: 12rpx;
+    text-align: center;
+    line-height: 100rpx;
+    font-weight: bold;
+    margin: 50rpx auto;
+}

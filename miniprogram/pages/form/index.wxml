@@ -1,0 +1,7 @@
+<view class="body">
+    <form bindsubmit="submit"></form>
+    <view class="section">
+        <view class="title">昵称：</view>
+        <input class="input" name="nickname" placeholder="请输入昵称" />
+    </view>
+</view>
